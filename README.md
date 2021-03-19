@@ -1,3 +1,3 @@
 # Upload Media
 
-This is code that is can be used to upload images and video for the Cloudinary Business Development Instruction.
+Instructions for working with the repo can be found [here](https://github.com/cloudinary-training/cld-bd-product-gallery/blob/master/README.md).
